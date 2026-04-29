@@ -2,8 +2,8 @@
     "Platform": "Windows",
     "Software": "Neuronally",
     "Versions": {
-        "SoftwareVersion": "neo-1.1.8",
-        "Roblox": "version-390ba09e7e944154"
+        "SoftwareVersion": "neo-1.1.9",
+        "Roblox": "version-acc4b74f79e743b9"
     },
     "Changelog": [
         "- Check discord"
