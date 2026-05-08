@@ -2,12 +2,11 @@
     "Platform": "Windows",
     "Software": "Neuronally",
     "Versions": {
-        "SoftwareVersion": "neo-1.2.3",
-        "Roblox": "version-acc4b74f79e743b9"
+        "SoftwareVersion": "neo-1.2.5",
+        "Roblox": "version-bf6344c9c23446bf"
     },
     "Changelog": [
-    "- Fixed injection not working in phantom forces",
-    "- Added messagebox"
+    "- Upated to version version-bf6344c9c23446bf"
 
     ]
 }
